@@ -3,11 +3,10 @@
 
 ## 원본 웹사이트
 ![samsung](https://github.com/soojinseong/pf1/assets/142555287/3f895674-3e32-43ff-8cdc-2ce534f08bb4)
-
-원본 url: 
+원본 url: https://www.samsung.com/sec/
 
 ## 클론 웹사이트 스크린 샷 링크
-클론코딩페이지 url :
+클론코딩페이지 url :https://soojinseong.github.io/pf1/
 ![sansung2](https://github.com/soojinseong/pf1/assets/142555287/35aae0b7-0098-445e-86b2-45b204ea9f27)
 
 
